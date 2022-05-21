@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Continous Integration and Continuous Deployment using plugins.fully completed project</h2>
+<h2>Continous Integration and Continuous Deployment using plugins</h2>
 </body>
 </html>
